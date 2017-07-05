@@ -58,7 +58,7 @@ first = do
 whatLens :: Taka ()
 whatLens = do
   slideTitle .= "Lensとは"
-  taka "Haskllのライブラリ"
+  taka "Haskellのライブラリ"
   vertical
     [ parCont "Haskellが苦手なこと"
     , codeCont 
